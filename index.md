@@ -1,4 +1,4 @@
-<img src="IMG_2851.jpg" width="680" height="480"></iframe>
+<img src="IMG_2851.jpg" width="680" height="480">
 <h1 style="font-family: Garamond, Baskerville; font-size:17pt; font-style:italic"> <b> Jose Aveldanes, Sociology PhD student at UC Berkeley </b> </h1>
 
 <h2 style="font-family: Garamond, Baskerville; font-size:15pt; font-style:normal"> About Me </h2>
