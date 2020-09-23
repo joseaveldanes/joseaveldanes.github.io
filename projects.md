@@ -1,0 +1,1 @@
+<h1 style="font-family: Garamond, Baskerville; font-size:17pt; font-style:italic"> <b> Project 1 is about getting a better understanding of how to use the command line to deal with projects and how to use Git Hub's collaborative features for working on projec with group members! </b> </h1>   
